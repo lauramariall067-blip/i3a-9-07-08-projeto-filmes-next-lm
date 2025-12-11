@@ -1,0 +1,16 @@
+nav {
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    a{
+        text-decoration: none;
+        color: ghostwhite;
+    }
+
+    a:hover{
+        text-decoration: underline;
+    }
+
+}
